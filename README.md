@@ -20,9 +20,20 @@ We use a subset of the [MVTec AD Dataset](https://www.mvtec.com/company/research
 
 ---
 
-## 🛠Installation
+## Installation
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/CJSO92/quantum-defect-detection.git
    cd quantum-defect-detection
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+## References:
+References
+MVTec AD Dataset: https://www.mvtec.com/company/research/datasets/mvtec-ad
+
+PennyLane: https://pennylane.ai
+
+Scikit-learn: https://scikit-learn.org
