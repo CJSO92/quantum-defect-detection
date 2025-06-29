@@ -9,7 +9,7 @@ We use a subset of the [MVTec AD Dataset](https://www.mvtec.com/company/research
 
 ---
 
-## 🧠 Objectives
+## Objectives
 
 - Preprocess defect/non-defect images into numerical features
 - Train and evaluate:
@@ -20,7 +20,7 @@ We use a subset of the [MVTec AD Dataset](https://www.mvtec.com/company/research
 
 ---
 
-## 🛠️ Installation
+## 🛠Installation
 
 1. Clone the repo:
    ```bash
