@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Ren, Zhonghe
+AU  - Fang, Fengzhou
+AU  - Yan, Ning
+AU  - Wu, You
+PY  - 2022
+DA  - 2022/03/01
+TI  - State of the Art in Defect Detection Based on Machine Vision
+JO  - International Journal of Precision Engineering and Manufacturing-Green Technology
+SP  - 661
+EP  - 691
+VL  - 9
+IS  - 2
+AB  - Machine vision significantly improves the efficiency, quality, and reliability of defect detection. In visual inspection, excellent optical illumination platforms and suitable image acquisition hardware are the prerequisites for obtaining high-quality images. Image processing and analysis are key technologies in obtaining defect information, while deep learning is significantly impacting the field of image analysis. In this study, a brief history and the state of the art in optical illumination, image acquisition, image processing, and image analysis in the field of visual inspection are systematically discussed. The latest developments in industrial defect detection based on machine vision are introduced. In the further development of the field of visual inspection, the application of deep learning will play an increasingly important role. Thus, a detailed description of the application of deep learning in defect classification, localization and segmentation follows the discussion of traditional defect detection algorithms. Finally, future prospects for the development of visual inspection technology are explored.
+SN  - 2198-0810
+UR  - https://doi.org/10.1007/s40684-021-00343-6
+DO  - 10.1007/s40684-021-00343-6
+ID  - Ren2022
+ER  - 

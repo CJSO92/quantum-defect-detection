@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Mishra, Shraddha
+AU  - Tsai, Chi-Yi
+PY  - 2023
+DA  - 2023/04/27
+TI  - QSurfNet: a hybrid quantum convolutional neural network for surface defect recognition
+JO  - Quantum Information Processing
+SP  - 179
+VL  - 22
+IS  - 5
+AB  - In this paper, we propose a novel hybrid quantum–classical convolutional neural network named QSurfNet, inspired by an efficient surface defect recognition model called SurfNetv2. SurfNetv2 is an established high-speed classical convolution neural network (CNN) model for image recognition, and QSurfNet further inherits the legacy by introducing quantum CNN (QCNN) layers, reducing the number of convolution blocks in the model architecture and the image size required for recognition. The QSurfNet architecture consists of a QCNN module, a feature extraction module, and a surface defect recognition module. The algorithm works on end-to-end supervised quantum machine learning and deep learning techniques to classify the surface defect categories of the surface defect image datasets. For this research, we used the 8 × 8-pixel and 12 × 12-pixel resolution RGB image information from the public Northeastern University dataset, and an industry-sourced calcium silicate board private dataset. We used principal component analysis for image dimensionality reduction across the R, G, and B channels, individually. We compare the performance of QSurfNet with six state-of-the-art methods on these datasets upon recognition results on test accuracy, recall, precision, and F1-Measure performance metrics. QSurfNet is novel in terms of the algorithm design methodology that can turn any classical CNN algorithm into state-of-the-art QCNN. Hence, the proposed methodology contributes to the practical feasibility of developing novel convolutional architecture designs of hybrid quantum–classical algorithms.
+SN  - 1573-1332
+UR  - https://doi.org/10.1007/s11128-023-03930-5
+DO  - 10.1007/s11128-023-03930-5
+ID  - Mishra2023
+ER  - 

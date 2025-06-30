@@ -1,0 +1,9 @@
+@misc{beaulieu2022quantumkernelimageclassification,
+      title={Quantum Kernel for Image Classification of Real World Manufacturing Defects}, 
+      author={Daniel Beaulieu and Dylan Miracle and Anh Pham and William Scherr},
+      year={2022},
+      eprint={2212.08693},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2212.08693}, 
+}

@@ -1,0 +1,9 @@
+@misc{guijo2024quantumartificialvisiondefect,
+      title={Quantum artificial vision for defect detection in manufacturing}, 
+      author={Daniel Guijo and Victor Onofre and Gianni Del Bimbo and Samuel Mugel and Daniel Estepa and Xabier De Carlos and Ana Adell and Aizea Lojo and Josu Bilbao and Roman Orus},
+      year={2024},
+      eprint={2208.04988},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2208.04988}, 
+}

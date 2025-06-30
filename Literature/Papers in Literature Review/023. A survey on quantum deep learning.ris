@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Wu, Huaiguang
+AU  - Zhang, Jiahui
+AU  - Wang, Lijie
+AU  - Li, Daiyi
+AU  - Kong, Delong
+AU  - Han, Yucan
+PY  - 2025
+DA  - 2025/03/03
+TI  - A survey on quantum deep learning
+JO  - The Journal of Supercomputing
+SP  - 564
+VL  - 81
+IS  - 4
+AB  - Quantum deep learning (QDL), which combines the unique strengths of quantum computing and deep learning, is gradually becoming a focal point. It offers new ideas for addressing the many challenges currently faced. In this survey, we review the representative algorithms that have combined quantum computing and deep learning in recent years. Firstly, we categorize the discussion based on data types into three areas: text, image, and multimodal data. We focus on QDL algorithms within these categories and explore their characteristics. Secondly, this paper compares the performance of the QDL model with the traditional model. By comparison, QDL not only demonstrates enhanced feature extraction capabilities but is also able to handle more complex data. In addition, the unique properties of quantum computing, such as quantum superposition and quantum entanglement, can accelerate calculations and improve model performance. These advantages demonstrate its potential efficiency over traditional methods. Finally, a summary and outlook on the prevailing research conditions in QDL have been given. This article integrates current research findings in QDL, providing a clear research background for subsequent researchers.
+SN  - 1573-0484
+UR  - https://doi.org/10.1007/s11227-025-07083-3
+DO  - 10.1007/s11227-025-07083-3
+ID  - Wu2025
+ER  - 
